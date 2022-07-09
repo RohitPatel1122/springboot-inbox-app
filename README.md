@@ -1,2 +1,2 @@
-# springboot-inbox-app
-Inbox app
+# springboot-inbox-Application
+Inbox Application is kind of email app, via Spring boot and Cassandra NoSql
